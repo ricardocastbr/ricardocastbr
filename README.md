@@ -49,16 +49,7 @@ Estudante de Licenciatura em Computação pela UFRPE, com foco atual em desenvol
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" 
 />
- <img 
-    align="left" 
-    alt="Blender" 
-    title="Blender"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
-/>
           
-
 
 <br/>
 <br/>
