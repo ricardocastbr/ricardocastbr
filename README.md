@@ -1,9 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/3BBS.gif"  />
-</div>
-
 ###
 
 <h1 align="center">👨‍💻 Ricardo Castelo Branco</h1>
