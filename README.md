@@ -1,9 +1,11 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ricardocastbr.ricardocastbr&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardocastbr.ricardocastbr&"  />
+</div>
 <h1 align="left">👨‍💻 Ricardo Castelo Branco</h1> 
 <div align="left">
 
   **`Dev Back-end`**
-<p align="left">Sou estudante de Licenciatura em Computação pela UFRPE e estou em processo de formação como desenvolvedor, com foco atualmente C# e Python, também infraestrutura de TI e boas práticas de segurança. <br><br>Também possuo experiência em design gráfico, tendo atuado como designer em startups e dominando ferramentas como Illustrator, Photoshop, Premiere, Figma e Blender — uma vivência que contribuiu para minha capacidade de atuar em projetos multidisciplinares e integrar diferentes áreas do conhecimento.</p>
+<p align="left">Sou estudante de Licenciatura em Computação pela UFRPE e estou em processo de formação como desenvolvedor, com foco atualmente C# e Python. Conhecimentos também em infraestrutura de TI e boas práticas de segurança. <br><br>Também possuo experiência em design gráfico, tendo atuado como designer em startups e dominando ferramentas como Illustrator, Photoshop, Premiere, Figma e Blender — uma vivência que contribuiu para minha capacidade de atuar em projetos multidisciplinares e integrar diferentes áreas do conhecimento.</p>
 
 ###
 
