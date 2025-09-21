@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardocastbr.ricardocastbr&"  />
-</div>
 <h1 align="left">👨‍💻 Ricardo Castelo Branco</h1> 
 <div align="left">
 
