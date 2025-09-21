@@ -1,22 +1,71 @@
-# 👨‍💻 ricardocastbr
+<br clear="both">
 
-**`Desenvolvedor Back-end`**
+<div align="center">
+  <img height="200" src="https://i.gifer.com/3BBS.gif"  />
+</div>
 
-Sou estudante de Licenciatura em Computação pela UFRPE e estou em processo de formação como desenvolvedor e administrador de sistemas, com foco atualmente em servidores, infraestrutura de TI e boas práticas de segurança. Tenho experiência com Linux e Windows Server, além de conhecimentos em redes de computadores e gerenciamento de ambientes tecnológicos.
+###
 
-Tenho facilidade para aprender novas tecnologias, colaboro bem em equipe e encontro na área de TI uma motivação constante para resolver problemas, criar soluções eficientes e melhorar processos.
+<h1 align="center">👨‍💻 Ricardo Castelo Branco</h1>
 
-Também possuo experiência em design gráfico, tendo atuado como designer em startups e dominando ferramentas como Illustrator, Photoshop, Premiere, Figma e Blender — uma vivência que contribuiu para minha capacidade de atuar em projetos multidisciplinares e integrar diferentes áreas do conhecimento.
+###
 
-## 💻 tech stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardocastbr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="18" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ricardo_castbr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="18" alt="instagram logo"  />
+  </a>
+</div>
 
-## 📊 github stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ricardocastbr&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ricardocastbr&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocastbr&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🔝 top contributed repo
-![](https://github-contributor-stats.vercel.app/api?username=ricardocastbr&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardocastbr.ricardocastbr&"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**`Dev Back-end`**
+<p align="left">Sou estudante de Licenciatura em Computação pela UFRPE e estou em processo de formação como desenvolvedor, com foco atualmente C# e Python, também infraestrutura de TI e boas práticas de segurança. <br><br>Também possuo experiência em design gráfico, tendo atuado como designer em startups e dominando ferramentas como Illustrator, Photoshop, Premiere, Figma e Blender — uma vivência que contribuiu para minha capacidade de atuar em projetos multidisciplinares e integrar diferentes áreas do conhecimento.</p>
+
+###
+
+<h3 align="center">🛠 tech stack:</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="32" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+</div>
+
+###
+
+<h3 align="center">📊 github stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardocastbr&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardocastbr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ricardocastbr&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
