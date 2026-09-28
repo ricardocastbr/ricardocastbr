@@ -2,7 +2,8 @@
 <div align="left">
 
   **`Dev Back-end`**
-<p align="left">Sou estudante de Licenciatura em Computação pela UFRPE e estou em processo de formação como desenvolvedor, com foco atualmente Java e Python. Conhecimentos também em infraestrutura de TI e boas práticas de segurança. <br><br>Também possuo experiência em design gráfico, tendo atuado como designer em startups e dominando ferramentas como Illustrator, Photoshop, Premiere, Figma e Blender — uma vivência que contribuiu para minha capacidade de atuar em projetos multidisciplinares e integrar diferentes áreas do conhecimento.</p>
+<p align="left">Computer Science Education student at UFRPE and back-end developer, focused on web applications and RESTful APIs using Java and Python. Interested in software development, databases, IT infrastructure, and cybersecurity.
+</p>
 
 ###
 
