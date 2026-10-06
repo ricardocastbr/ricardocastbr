@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Ricardo Castelo Branco</h1> 
+<h1 align="left">Ricardo Castelo Branco</h1> 
 <div align="left">
 
   **`Dev Back-end`**
